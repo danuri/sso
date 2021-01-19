@@ -13,6 +13,6 @@
         "psr-4": {"Ropeg\\Sso\\": "src/"}
     },
     "require": {
-    "php": ">=7.1",
+        "php": "^7.0"
     }
 }
