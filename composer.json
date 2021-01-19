@@ -9,6 +9,7 @@
             "email": "danualbantani@gmail.com"
         }
     ],
+    "minimum-stability": "dev",
     "autoload": {
         "psr-4": {"Ropeg\\Sso\\": "src/"}
     },
