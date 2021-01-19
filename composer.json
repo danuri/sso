@@ -1,0 +1,17 @@
+{
+    "name": "danuri/sso",
+    "description": "PHP Library for authentication with SSO Biro Kepegawaian Kemenag",
+    "type": "library",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Danuri",
+            "email": "danualbantani@gmail.com"
+        }
+    ],
+    "minimum-stability": "stable",
+    "autoload": {
+        "psr-4": {"Ropeg\\Sso\\": "src/"}
+    },
+    "require": {}
+}
